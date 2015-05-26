@@ -1,2 +1,2 @@
 ### my blog
-Writing on projects I have worked on, and issues I think deserve mentioning.
+Writing on projects I have worked on, and issues I think deserve mentioning.  It currently uses Hexo a static blog engine written in Node.js.  For the content that I want to provide it seems to have everything I could want.  If you like parts of my blog, or for other possibly more nefarious reasons wish to use content from it, please feel free to under a Attribution-ShareAlike 4.0 International Creative Commons license, http://creativecommons.org/licenses/by-sa/4.0/.
