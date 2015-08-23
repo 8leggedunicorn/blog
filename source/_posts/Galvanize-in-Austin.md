@@ -17,7 +17,7 @@ the bootcamp company I planned to have to sell my current home, and move to
 Seattle to experience.  A Google search later and this assessment was supported
 by looking at their official blog, 
 
-http://www.galvanize.com/blog/2015/08/12/galvanize-austin/#.VdlxDnUVhBc
+http://www.galvanize.com/blog/2015/08/12/galvanize-austin/
 
 Looking at the dates the greatest likelihood is that there will be a bootcamp
 offered here at the beginning of February. Which if I have any say in the
